@@ -364,6 +364,7 @@
 }
 
 /* 文章页、归档页、普通页面 */
+relatedPosts-list,
 div#post,
 div#page,
 nav#pagination-post,
